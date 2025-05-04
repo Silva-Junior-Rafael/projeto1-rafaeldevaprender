@@ -1,0 +1,54 @@
+    1  git init
+    2  git status
+    3  git add "Meu_C\303\263digo.txt"
+    4  git status
+    5  git add "Meu_C\303\263digo.txt"
+    6  git status
+    7  git status
+    8  git add "Meu Código"
+    9  git status
+   10  git add "Meu C\303\263digo.txt"
+   11  git status
+   12  git add Meu\ Código.txt Meu\ Código.txt 
+   13  git status
+   14  git commit -m "commit inicial"
+   15  git config --global user.email "junior.silvarafael@gmail.com"
+   16  git config --global user.name "Rafael Junior da Silva"
+   17  git commit -m "commit inicial"
+   18  git push
+   19  git status
+   20  git remote add origin [200~https://github.com/Silva-Junior-Rafael/Rafael-AprendendoGithub~
+   21  git innit
+   22  git status
+   23  git remote add origin https://github.com/Silva-Junior-Rafael/Rafael-AprendendoGithub
+   24  git init
+   25  commit inicial
+   26  commit inicial
+   27  mkdir Rafael-AprendendoGitHub
+   28  cd Rafael-AprendendoGitHub
+   29  git init
+   30  git remote add origin https://github.com/Silva-Junior-Rafael/Rafael-AprendendoGithub
+   31  git push
+   32   git push --set-upstream origin master
+   33  echo "# Rafael-AprendendoGitHub" > README.md
+   34  git add README.md
+   35  git commit -m "Primeiro commit"
+   36  git push -u origin master
+   37  git status
+   38  git status
+   39  cd C:\Users\rafae\OneDrive\Desktop\Projeto 1 - Dev_aprender
+   40  git status
+   41  git commit -m "commit inicial"
+   42  git push
+   43  cd C:\Users\rafae\OneDrive\Desktop\Projeto 1 - Dev_aprender
+   44  cd "C:/Users/rafae/OneDrive/Desktop/Projeto 1 - Dev_aprender"
+   45  git remote add origin 
+   46  rafae@Inspiron14 MINGW64 ~/Rafael-AprendendoGitHub (master)
+   47  $ ^C
+   48  git remote add origin https://github.com/SeuUsuario/SeuRepositorio.git
+   49  git remote add origin https://github.com/Silva-Junior-Rafael/Rafael-AprendendoGithub
+   50  git remote -v
+   51  git remote set-url origin https://github.com/Silva-Junior-Rafael/Rafael-AprendendoGithub
+   52  git remote -v
+   53  git push
+   54  history > comandos.txt
